@@ -39,6 +39,7 @@ Example: f >> 2
 using namespace std;
 int main()
 {// Bitwise operators:
+    
     int f, v;
     cout << "\nEnter the first number for bitwise operation: ";
     cin >> f;
