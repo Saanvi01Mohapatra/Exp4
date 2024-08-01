@@ -37,8 +37,7 @@ Example: f >> 2
 //Exp-4 bitwise operator
 #include <iostream>
 using namespace std;
-int main()
-{// Bitwise operators:
+int main(){
     
     int f, v;
     cout << "\nEnter the first number for bitwise operation: ";
