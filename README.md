@@ -53,7 +53,8 @@ int main(){
     cout << "~(" << v << ") = " << (~v) << endl;
     return 0;
 }
-## Output:
+```
+### Output:
 
 ```
 Enter the first number for bitwise operation: 4
