@@ -31,6 +31,7 @@ Operation: Shifts bits of the left operand to the right by the number of positio
 Example: f >> 2
 
 ## Code:
+```
 //Saanvi Mohapatra
 //23070123110
 //EnTC B2
