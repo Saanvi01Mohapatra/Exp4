@@ -52,7 +52,17 @@ int main(){
     cout << "~(" << v << ") = " << (~v) << endl;
     return 0;
 }
+## Output:
 
+```
+Enter the first number for bitwise operation: 4
+Enter the second number for bitwise operation: 7
+f & v = 4
+f | v = 7
+f ^ v = 3
+~(4) = -5
+~(7) = -8
+```
 
 
 ## Conclusion
